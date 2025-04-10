@@ -1,6 +1,6 @@
 # Mabl Automation Suite – Sphere Application
 
-This repository contains an automation test suite created using **Mabl** for the **Sphere Application**. It includes browser tests for critical workflows such as **Login** and the **Contacts Module**.
+This repository contains an automation test suite created using **Mabl** for the **Demo Application**. It includes browser tests for critical workflows such as **Login** and the **Contacts Module**.
 
 ## 🚀 Overview
 
